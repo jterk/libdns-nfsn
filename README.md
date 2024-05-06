@@ -1,3 +1,5 @@
+Supplanted by [libdns/nfsn](https://github.com/libdns/nfsn)
+
 `nfsn` for [`libdns`](https://github.com/libdns/libdns)
 =======================
 
